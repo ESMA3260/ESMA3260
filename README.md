@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esma-elosman/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,php,arduino,python,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,php,arduino,python,mysql,vscode,git,github" />
   </a>
 </p>
 
