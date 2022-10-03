@@ -22,6 +22,24 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,php,arduino,python,mysql,git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <img  src="https://github.com/ESMA3260/ESMA3260/raw/main/EsmaElosman.java.png" />
+</p>
+
+
+<!--
+
+
+
+
 <p align="center"> 
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -45,11 +63,10 @@
   <a href="https://www.arduino.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="arduino" width="40" height="40"/> 
   </a> 
+  <a href="https://www.arduino.com" target="_blank"> 
+    <img src="icons/javascript.png" />
+  </a>   
 </p>
 
 
-<p align="center">
-  <img  src="https://github.com/ESMA3260/ESMA3260/raw/main/EsmaElosman.java.png" />
-</p>
-
-
+-->
